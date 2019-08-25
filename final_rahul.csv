@@ -1,0 +1,1000 @@
+name,length,number of words
+The Godfather,12,2
+Goodfellas,10,1
+Pulp Fiction,11,2
+The Usual Suspects,16,3
+Apocalypse Now,13,2
+Trainspotting,13,1
+Fight Club,9,2
+Schindler's List,15,2
+Boogie Nights,12,2
+Reservoir Dogs,13,2
+The Shawshank Redemption,22,3
+Jaws,4,1
+Taxi Driver,10,2
+L.A. Confidential,16,2
+Back to the Future,15,4
+The Godfather: Part II,19,4
+Fargo,5,1
+The Dark Knight,13,3
+Magnolia,8,1
+Scarface,8,1
+The Royal Tenenbaums,18,3
+Donnie Darko,11,2
+Platoon,7,1
+Heat,4,1
+American Beauty,14,2
+The Big Lebowski,14,3
+Raging Bull,10,2
+The Departed,11,2
+There's Something About Mary,25,4
+Léon,4,1
+Cidade de Deus,12,3
+Once Upon a Time in America,22,6
+"Lock, Stock and Two Smoking Barrels",30,6
+The Truman Show,13,3
+Toy Story,8,2
+Alien,5,1
+Rushmore,8,1
+The Matrix,9,2
+Se7en,5,1
+Good Will Hunting,15,3
+Aliens,6,1
+The Exorcist,11,2
+One Flew Over the Cuckoo's Nest,26,6
+Chinatown,9,1
+Casino,6,1
+True Romance,11,2
+Sin City,7,2
+Gladiator,9,1
+Raiders of the Lost Ark,19,5
+Miller's Crossing,16,2
+Being John Malkovich,18,3
+Die Hard,7,2
+Casablanca,10,1
+Kick-Ass,8,1
+The Prestige,11,2
+Inglourious Basterds,19,2
+Evil Dead II,10,3
+Jurassic Park,12,2
+Batman Begins,12,2
+The Green Mile,12,3
+The French Connection,19,3
+Unforgiven,10,1
+Drive,5,1
+The Shining,10,2
+The Evil Dead,11,3
+Forrest Gump,11,2
+The Thing,8,2
+Citizen Kane,11,2
+Blue Velvet,10,2
+The Wicker Man,12,3
+Eternal Sunshine of the Spotless Mind,32,6
+The Princess Bride,16,3
+A Clockwork Orange,16,3
+Go,2,1
+Stand by Me,9,3
+The Lord of the Rings: The Return of the King,36,10
+Terminator 2: Judgment Day,23,4
+Toy Story 2,9,3
+Saving Private Ryan,17,3
+Desperado,9,1
+Indiana Jones and the Last Crusade,29,6
+Saw,3,1
+My Left Foot: The Story of Christy Brown,33,8
+Bowling for Columbine,19,3
+Man on Fire,9,3
+Almost Famous,12,2
+High Fidelity,12,2
+Django Unchained,15,2
+12 Angry Men,10,3
+Memento,7,1
+Rain Man,7,2
+Minority Report,14,2
+The Lord of the Rings: The Two Towers,30,8
+Goldfinger,10,1
+The Social Network,16,3
+American Psycho,14,2
+Men in Black,10,3
+No Country for Old Men,18,5
+Airplane!,9,1
+There Will Be Blood,16,4
+Inception,9,1
+JFK,3,1
+King Kong,8,2
+The Terminator,13,2
+The Lord of the Rings: The Fellowship of the Ring,40,10
+Kill Bill: Vol. 1,14,4
+The Silence of the Lambs,20,5
+The Color of Money,15,4
+This Is England,13,3
+It's a Wonderful Life,18,4
+Children of Men,13,3
+In the Name of the Father,20,6
+American History X,16,3
+Twelve Monkeys,13,2
+Dog Day Afternoon,15,3
+The Untouchables,15,2
+Close Encounters of the Third Kind,29,6
+"Il buono, il brutto, il cattivo",26,6
+Glengarry Glen Ross,17,3
+The Wolf of Wall Street,19,5
+Road to Perdition,15,3
+Up,2,1
+Natural Born Killers,18,3
+Out of Sight,10,3
+The Bourne Identity,17,3
+An American Werewolf in London,26,5
+United 93,8,2
+Full Metal Jacket,15,3
+The General,10,2
+The Deer Hunter,13,3
+Interview with the Vampire: The Vampire Chronicles,44,7
+Things to Do in Denver When You're Dead,32,8
+Little Miss Sunshine,18,3
+Carlito's Way,12,2
+Casino Royale,12,2
+Dirty Harry,10,2
+Gremlins,8,1
+Butch Cassidy and the Sundance Kid,29,6
+Ocean's Eleven,13,2
+Amores perros,12,2
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,72,12
+Austin Powers: The Spy Who Shagged Me,31,7
+Batman Returns,13,2
+The Virgin Suicides,17,3
+28 Days Later...,14,3
+The Life Aquatic with Steve Zissou,29,6
+Requiem for a Dream,16,4
+The Italian Job,13,3
+Get Carter,9,2
+The Rules of Attraction,20,4
+Zodiac,6,1
+Hot Fuzz,7,2
+"O Brother, Where Art Thou?",22,5
+Braindead,9,1
+Dumb and Dumber,13,3
+The Jungle Book,13,3
+The Bourne Ultimatum,18,3
+Shallow Grave,12,2
+From Dusk Till Dawn,16,4
+Gone with the Wind,15,4
+American Pie,11,2
+Slumdog Millionaire,18,2
+On the Waterfront,15,3
+Snatch,6,1
+The Naked Gun: From the Files of Police Squad!,38,9
+National Lampoon's Animal House,28,4
+Three Kings,10,2
+In Bruges,8,2
+Toy Story 3,9,3
+Cloverfield,11,1
+Dawn of the Dead,13,4
+Quiz Show,8,2
+Dalkomhan insaeng,16,2
+The Sixth Sense,13,3
+The Long Good Friday,17,4
+Juno,4,1
+Planet of the Apes,15,4
+Kiss Kiss Bang Bang,16,4
+Jackie Brown,11,2
+Sideways,8,1
+Edward Scissorhands,18,2
+The Thin Red Line,14,4
+Hotel Rwanda,11,2
+Sexy Beast,9,2
+Swingers,8,1
+Amélie,6,1
+Män som hatar kvinnor,18,4
+Nuovo Cinema Paradiso,19,3
+Witness for the Prosecution,24,4
+The Apartment,12,2
+Meet the Parents,14,3
+The Right Stuff,13,3
+Catch Me If You Can,15,5
+Saturday Night Fever,18,3
+Anchorman: The Legend of Ron Burgundy,32,6
+Happiness,9,1
+Knocked Up,9,2
+District 9,9,2
+Fahrenheit 9/11,14,2
+Star Trek,8,2
+Senna,5,1
+Serbuan Maut,11,2
+Brick,5,1
+The Lives of Others,16,4
+When We Were Kings,15,4
+Groundhog Day,12,2
+All the President's Men,20,4
+A Quiet Place,11,3
+Unbreakable,11,1
+Pan's Labyrinth,14,2
+Hugo,4,1
+Sunshine,8,1
+The King of Kong,13,4
+The People vs. Larry Flynt,22,5
+Superbad,8,1
+Serenity,8,1
+Night of the Living Dead,20,5
+Austin Powers: International Man of Mystery,38,6
+28 Weeks Later,12,3
+The Thin Blue Line,15,4
+Dog Soldiers,11,2
+Dead Poets Society,16,3
+Get Shorty,9,2
+Bad Santa,8,2
+Ghostbusters,12,1
+Donnie Brasco,12,2
+Top Gun,6,2
+(500) Days of Summer,17,4
+Chopper,7,1
+The Breakfast Club,16,3
+Grosse Pointe Blank,17,3
+John Wick: Chapter 3 - Parabellum,28,6
+The Dirty Dozen,13,3
+To Kill a Mockingbird,18,4
+Harold and Maude,14,3
+Vals Im Bashir,12,3
+Shame,5,1
+Kill Bill: Vol. 2,14,4
+Pirates of the Caribbean: The Curse of the Black Pearl,45,10
+Bottle Rocket,12,2
+Star Wars: Episode V - The Empire Strikes Back,38,9
+Jackass: The Movie,16,3
+Point Break,10,2
+The Squid and the Whale,19,5
+Network,7,1
+Once Upon a Time in the West,22,7
+RoboCop,7,1
+Bonnie and Clyde,14,3
+"South Park: Bigger, Longer & Uncut",29,6
+The Texas Chain Saw Massacre,24,5
+Dodgeball: A True Underdog Story,28,5
+La piel que habito,15,4
+Ruby Sparks,10,2
+Layer Cake,9,2
+Rounders,8,1
+Superman,8,1
+Day of the Dead,12,4
+Marathon Man,11,2
+Midnight Cowboy,14,2
+Life of Brian,11,3
+Raising Arizona,14,2
+Moon,4,1
+Clerks,6,1
+Drag Me to Hell,12,4
+Brazil,6,1
+The Bourne Supremacy,18,3
+Trois couleurs: Rouge,19,3
+A History of Violence,18,4
+The Hangover,11,2
+Scott Pilgrim vs. the World,23,5
+The Producers,12,2
+Animal Kingdom,13,2
+The Hudsucker Proxy,17,3
+Jerry Maguire,12,2
+Speed,5,1
+True Grit,8,2
+Cool Hand Luke,12,3
+Zombieland,10,1
+American: The Bill Hicks Story,26,5
+Crash,5,1
+The Graduate,11,2
+A Bronx Tale,10,3
+Låt den rätte komma in,18,5
+As Good as It Gets,14,5
+Das Boot,7,2
+A Serious Man,11,3
+The Fly,6,2
+The Wrestler,11,2
+Titanic,7,1
+Finding Nemo,11,2
+The Fugitive,11,2
+Star Wars,8,2
+The Hustler,10,2
+Per un pugno di dollari,19,5
+Don't Look Now,12,3
+Fantastic Mr. Fox,15,3
+The Mist,7,2
+Field of Dreams,13,3
+Rise of the Planet of the Apes,24,7
+Moneyball,9,1
+Jackass Number Two,16,3
+The Fighter,10,2
+Mud,3,1
+Hodejegerne,11,1
+This Is the End,12,4
+Gone Girl,8,2
+Guardians of the Galaxy,20,4
+Serbuan Maut 2: Berandal,21,4
+Mad Max: Fury Road,15,4
+The Descent,10,2
+Patriots Day,11,2
+2001: A Space Odyssey,18,4
+Insomnia,8,1
+Capturing the Friedmans,21,3
+The Curious Case of Benjamin Button,30,6
+Batman,6,1
+Sleepy Hollow,12,2
+The Third Man,11,3
+Spider-Man 2,11,2
+24 Hour Party People,17,4
+The Blair Witch Project,20,4
+End of Watch,10,3
+WALL·E,6,1
+The Imposter,11,2
+Salvador,8,1
+X2,2,1
+Spider-Man,10,1
+North by Northwest,16,3
+Inside Man,9,2
+Face/Off,8,1
+The Lego Movie,12,3
+Batoru rowaiaru,14,2
+Mission: Impossible - Ghost Protocol,32,5
+Mission: Impossible,18,2
+Collateral,10,1
+Edge of Tomorrow,14,3
+Snowpiercer,11,1
+Blade,5,1
+The Artist,9,2
+The Crying Game,13,3
+Grizzly Man,10,2
+Starship Troopers,16,2
+Dig!,4,1
+Caché,5,1
+Idi i smotri,10,3
+Jûsan-nin no shikaku,18,3
+Gone Baby Gone,12,3
+Rango,5,1
+Trois couleurs: Blanc,19,3
+Murderball,10,1
+Dogville,8,1
+Blow Out,7,2
+Marley,6,1
+American Splendor,16,2
+Changeling,10,1
+Braveheart,10,1
+The Fisher King,13,3
+Wild at Heart,11,3
+Control,7,1
+In the Loop,9,3
+Cop Land,7,2
+Oldeuboi,8,1
+Black Swan,9,2
+Salinui chueok,13,2
+Willy Wonka & the Chocolate Factory,30,6
+Argo,4,1
+Dawn of the Planet of the Apes,24,7
+The Taking of Pelham One Two Three,28,7
+50/50,5,1
+Notting Hill,11,2
+The Grand Budapest Hotel,21,4
+The Proposition,14,2
+Bernie,6,1
+The Aviator,10,2
+Knuckle,7,1
+Paths of Glory,12,3
+A Hard Day's Night,15,4
+Holy Motors,10,2
+Moonrise Kingdom,15,2
+Capitalism: A Love Story,21,4
+Galaxy Quest,11,2
+A Room for Romeo Brass,18,5
+Big,3,1
+L'instinct de mort,16,3
+Performance,11,1
+Michael Clayton,14,2
+The Fifth Element,15,3
+Shaun of the Dead,14,4
+The Spy Who Loved Me,16,5
+A Monster Calls,13,3
+"I, Tonya",7,2
+El secreto de sus ojos,18,5
+Broadcast News,13,2
+The Goonies,10,2
+Rebel Without a Cause,18,4
+Training Day,11,2
+Coco,4,1
+Avengers: Infinity War,20,3
+Mission: Impossible - Fallout,26,4
+The Wind that Shakes the Barley,26,6
+Cemetery Junction,16,2
+Before the Devil Knows You're Dead,29,6
+Sunset Blvd.,11,2
+8 Mile,5,2
+The Incredibles,14,2
+The Hurt Locker,13,3
+Santa Sangre,11,2
+Gangs of New York,14,4
+Basic Instinct,13,2
+Sing Street,10,2
+The Omen,7,2
+Winter's Bone,12,2
+The Avengers,11,2
+Die Hard 2,8,3
+Affliction,10,1
+Invasion of the Body Snatchers,26,5
+American Pie 2,12,3
+Buffalo Soldiers,15,2
+Wolf Creek,9,2
+Four Lions,9,2
+Dip huet seung hung,16,4
+Say Anything...,14,2
+The Insider,10,2
+Home Alone,9,2
+Dances with Wolves,16,3
+25th Hour,8,2
+Rosemary's Baby,14,2
+Easy Rider,9,2
+Exit Through the Gift Shop,22,5
+Artificial Intelligence: AI,25,3
+Total Recall,11,2
+Side Effects,11,2
+Killer Joe,9,2
+The Queen of Versailles,20,4
+Taxi to the Dark Side,17,5
+Point Blank,10,2
+Back to the Future Part II,21,6
+Leaving Las Vegas,15,3
+Poltergeist,11,1
+Tinker Tailor Soldier Spy,22,4
+The Searchers,12,2
+The Spectacular Now,17,3
+Deliverance,11,1
+From Russia with Love,18,4
+American Movie,13,2
+Trois couleurs: Bleu,18,3
+"Monsters, Inc.",13,2
+Life of Pi,8,3
+Good Vibrations,14,2
+Revenge of the Nerds,17,4
+Blade Runner,11,2
+Captain America: The Winter Soldier,31,5
+The Great Escape,14,3
+The Last Waltz,12,3
+Scent of a Woman,13,4
+Midnight Run,11,2
+Thief,5,1
+The Elephant Man,14,3
+Rocky,5,1
+Vertigo,7,1
+El Topo,6,2
+Kill List,8,2
+The Dead Zone,11,3
+Mary and Max,10,3
+Dr. No,5,2
+GoldenEye,9,1
+Zero Dark Thirty,14,3
+The World's End,13,3
+Election,8,1
+Escape from Alcatraz,18,3
+Un condamné à mort s'est échappé ou Le vent souffle où il veut,50,13
+The Cabin in the Woods,18,5
+Silver Linings Playbook,21,3
+Rush,4,1
+Elf,3,1
+The Abyss,8,2
+Gravity,7,1
+Her,3,1
+Captain Phillips,15,2
+Bound,5,1
+Half Nelson,10,2
+Munich,6,1
+Traffic,7,1
+Nightcrawler,12,1
+X-Men: Days of Future Past,22,5
+Mistaken for Strangers,20,3
+The Bad Lieutenant: Port of Call - New Orleans,38,9
+A Bug's Life,10,3
+Whiplash,8,1
+Shutter Island,13,2
+Star Wars: Episode VII - The Force Awakens,35,8
+Lat sau san taam,13,4
+The Place Beyond the Pines,22,5
+Happy Gilmore,12,2
+Kramer vs. Kramer,15,3
+Wonder Boys,10,2
+War of the Worlds,14,4
+Four Weddings and a Funeral,23,5
+E.T. the Extra-Terrestrial,24,3
+Nixon,5,1
+Star Wars: Episode III - Revenge of the Sith,36,9
+Army of Darkness,14,3
+Manhunter,9,1
+Catfish,7,1
+Tootsie,7,1
+Boyz n the Hood,12,4
+Do the Right Thing,15,4
+Crumb,5,1
+A Fish Called Wanda,16,4
+To Live and Die in L.A.,18,6
+Superman II,10,2
+Confessions of a Dangerous Mind,27,5
+Paper Moon,9,2
+Wo hu cang long,12,4
+Angel Heart,10,2
+Days of Wine and Roses,18,5
+You're Next,10,2
+Bugsy Malone,11,2
+Gattaca,7,1
+Strange Days,11,2
+The Other Guys,12,3
+L'ennemi public n°1,17,3
+Biloxi Blues,11,2
+A Simple Plan,11,3
+Sleepers,8,1
+Letters from Iwo Jima,18,4
+Psycho,6,1
+The Muppet Christmas Carol,23,4
+How to Train Your Dragon,20,5
+The World Is Not Enough,19,5
+Up in the Air,10,4
+Avatar,6,1
+Bug,3,1
+V for Vendetta,12,3
+His Girl Friday,13,3
+King of New York,13,4
+Adaptation.,11,1
+The Butcher Boy,13,3
+Dead Man's Shoes,14,3
+Punch-Drunk Love,15,2
+Master and Commander: The Far Side of the World,39,9
+Born on the Fourth of July,21,6
+Twin Peaks: Fire Walk with Me,24,6
+Irréversible,12,1
+Ed Wood,6,2
+Nochnoy dozor,12,2
+Bad Lieutenant,13,2
+The Lincoln Lawyer,16,3
+Wanted,6,1
+Brokeback Mountain,17,2
+Near Dark,8,2
+The Wild Bunch,12,3
+A Few Good Men,11,4
+Enron: The Smartest Guys in the Room,30,7
+Predator,8,1
+La haine,7,2
+The Matrix Reloaded,17,3
+The Revenant,11,2
+Deadpool,8,1
+La vita è bella,12,4
+Anvil: The Story of Anvil,21,5
+Eden Lake,8,2
+The Last Seduction,16,3
+In America,9,2
+Pinocchio,9,1
+Splice,6,1
+ Screen Two,9,3
+Blood Simple,11,2
+The Guest,8,2
+Next Goal Wins,12,3
+Taxi,4,1
+Secretary,9,1
+Garden State,11,2
+Frost/Nixon,11,1
+Ne le dis à personne,16,5
+22 Jump Street,12,3
+21 Grams,7,2
+Bugsy,5,1
+Local Hero,9,2
+Annie Hall,9,2
+Heathers,8,1
+Adventureland,13,1
+The Conversation,15,2
+Watchmen,8,1
+The Ghost Writer,14,3
+[Rec],5,1
+Dnevnoy dozor,12,2
+Fish Tank,8,2
+Sling Blade,10,2
+When Harry Met Sally...,20,4
+The Kid Stays in the Picture,23,6
+Ferris Bueller's Day Off,21,4
+I Love You Phillip Morris,21,5
+Rio Bravo,8,2
+Kind Hearts and Coronets,21,4
+Choke,5,1
+The Conjuring,12,2
+Body Heat,8,2
+The Big Red One,12,4
+The Rover,8,2
+Moulin Rouge!,12,2
+Harry Brown,10,2
+The Contender,12,2
+Siu Lam juk kau,12,4
+Spoorloos,9,1
+Michael Collins,14,2
+Mad Max 2,7,3
+Love and Death,12,3
+Blue Valentine,13,2
+Slap Shot,8,2
+Gremlins 2: The New Batch,21,5
+Wall Street,10,2
+Tommy,5,1
+Gomorra,7,1
+The King of Comedy,15,4
+House of Games,12,3
+The Tree of Life,13,4
+Lethal Weapon,12,2
+Midsommar,9,1
+Stranger Than Fiction,19,3
+Into the Abyss,12,3
+The Mask,7,2
+The Muppets,10,2
+Gonzo: The Life and Work of Dr. Hunter S. Thompson,41,10
+Prometheus,10,1
+Blazing Saddles,14,2
+Win Win,6,2
+Dead Man Walking,14,3
+Mou gaan dou,10,3
+The Way of the Gun,14,5
+Lawrence of Arabia,16,3
+Brüno,5,1
+Redbelt,7,1
+Lethal Weapon 2,13,3
+Atonement,9,1
+Lost Highway,11,2
+Re-Animator,11,1
+The Wizard of Oz,13,4
+Iron Man,7,2
+The Girl with the Dragon Tattoo,26,6
+Incendies,9,1
+The Intouchables,15,2
+Mr. Smith Goes to Washington,24,5
+Celda 211,8,2
+The Guard,8,2
+Beauty and the Beast,17,4
+Pirates of the Caribbean: Dead Man's Chest,36,7
+The Big Sleep,11,3
+Star Wars: Episode VI - Return of the Jedi,34,9
+Easy A,5,2
+Babel,5,1
+The Maltese Falcon,16,3
+In the Line of Fire,15,5
+Bringing Out the Dead,18,4
+White Heat,9,2
+Chasing Amy,10,2
+Angela's Ashes,13,2
+I'm Not There,11,3
+Misery,6,1
+The Thomas Crown Affair,20,4
+Who Framed Roger Rabbit,20,4
+The Treasure of the Sierra Madre,27,6
+Lost in Translation,17,3
+Primal Fear,10,2
+Mulholland Dr.,13,2
+Walk the Line,11,3
+The China Syndrome,16,3
+Narc,4,1
+El orfanato,10,2
+De rouille et d'os,15,4
+Bridesmaids,11,1
+Les quatre cents coups,19,4
+Hunger,6,1
+Koroshiya 1,10,2
+The Dark Knight Rises,18,4
+X-Men,5,1
+Filth,5,1
+White Lightnin',14,2
+Looper,6,1
+La La Land,8,3
+Get Out,6,2
+Logan,5,1
+American Gangster,16,2
+Interstellar,12,1
+Der amerikanische Freund,22,3
+Alan Partridge: Alpha Papa,23,4
+X: First Class,12,3
+Crash,5,1
+Mona Lisa,8,2
+Pitch Black,10,2
+"Synecdoche, New York",18,3
+Us,2,1
+The Town,7,2
+Once in a Lifetime: The Extraordinary Story of the New York Cosmos,55,12
+Mission: Impossible III,21,3
+On Her Majesty's Secret Service,27,5
+Ace Ventura: Pet Detective,23,4
+Sherlock Holmes,14,2
+Piranha 3D,9,2
+Kingsman: The Secret Service,25,4
+Song of the Sea,12,4
+Creed,5,1
+Star Wars: Episode VIII - The Last Jedi,32,8
+Hacksaw Ridge,12,2
+Dunkirk,7,1
+Kinsey,6,1
+Gimme Shelter,12,2
+Frenzy,6,1
+Amadeus,7,1
+Jodaeiye Nader az Simin,20,4
+Dallas Buyers Club,16,3
+Die Hard: With a Vengeance,22,5
+Freeway,7,1
+The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,54,13
+Carlos,6,1
+Per qualche dollaro in più,22,5
+Ratatouille,11,1
+The Funeral,10,2
+The Devil's Advocate,18,3
+The Player,9,2
+Thank You for Smoking,18,4
+Seven Psychopaths,16,2
+Skyfall,7,1
+Hereditary,10,1
+Starred Up,9,2
+Paddington,10,1
+Joe,3,1
+Bloody Sunday,12,2
+Sen to Chihiro no kamikakushi,25,5
+Neds,4,1
+Michael,7,1
+The Shape of Water,15,4
+"Three Billboards Outside Ebbing, Missouri",37,5
+Three Identical Strangers,23,3
+State of Play,11,3
+The Wackness,11,2
+Dirty Rotten Scoundrels,21,3
+Los ojos de Julia,14,4
+Ghostbusters II,14,2
+Jackass 3D,9,2
+Stake Land,9,2
+No,2,1
+Empire of the Sun,14,4
+Tombstone,9,1
+I Heart Huckabees,15,3
+The Addiction,12,2
+Indiana Jones and the Temple of Doom,30,7
+"Paris, je t'aime",14,3
+Get Him to the Greek,16,5
+Scream,6,1
+Iron Man Three,12,3
+The Village,10,2
+21 Jump Street,12,3
+Pacific Rim,10,2
+Shoot 'Em Up,10,3
+Angels with Dirty Faces,20,4
+Rachel Getting Married,20,3
+Planet Terror,12,2
+Private Parts,12,2
+Spring Breakers,14,2
+Wag the Dog,9,3
+Margin Call,10,2
+Cinderella Man,13,2
+"Paris, Texas",11,2
+Prisoners,9,1
+Bone Tomahawk,12,2
+Westworld,9,1
+The Hateful Eight,15,3
+Room,4,1
+The Nice Guys,11,3
+Hell or High Water,15,4
+Nocturnal Animals,16,2
+Spotlight,9,1
+The Loved Ones,12,3
+"Good Morning, Vietnam",19,3
+Badlands,8,1
+The Class of '92,13,4
+Withnail & I,10,3
+Bowfinger,9,1
+Diamonds Are Forever,18,3
+Live and Let Die,13,4
+127 Hours,8,2
+Jacob's Ladder,13,2
+Black Hawk Down,13,3
+Machete,7,1
+The Adventures of Tintin,21,4
+Mission: Impossible II,20,3
+A Matter of Life and Death,21,6
+Kubo and the Two Strings,20,5
+Arbitrage,9,1
+Ringu,5,1
+Suspiria,8,1
+Carrie,6,1
+Dark City,8,2
+Breakfast at Tiffany's,20,3
+Thirteen Days,12,2
+Source Code,10,2
+The Jungle Book,13,3
+Supersonic,10,1
+The Killing,10,2
+True Lies,8,2
+Swimming with Sharks,18,3
+Nurse Betty,10,2
+Henry: Portrait of a Serial Killer,29,6
+Buffalo '66,10,2
+Der Untergang,12,2
+Sid and Nancy,11,3
+Star Wars: Episode I - The Phantom Menace,34,8
+Risky Business,13,2
+The Last King of Scotland,21,5
+Short Cuts,9,2
+Witness,7,1
+The Limey,8,2
+Cast Away,8,2
+Gangster No. 1,12,3
+The Godfather Part III,19,4
+The Crow,7,2
+Eastern Promises,15,2
+The Hobbit: The Desolation of Smaug,30,6
+Manhattan,9,1
+Kingpin,7,1
+Quantum of Solace,15,3
+El mariachi,10,2
+Big Trouble in Little China,23,5
+The Sting,8,2
+Apollo 13,8,2
+Noah,4,1
+Once,4,1
+Captain Fantastic,16,2
+Lord of War,9,3
+The Last of the Mohicans,20,5
+Lone Survivor,12,2
+Jumanji,7,1
+Apocalypto,10,1
+Youth in Revolt,13,3
+Lords of Dogtown,14,3
+Team America: World Police,23,4
+After Hours,10,2
+Man on the Moon,12,4
+Trolljegeren,12,1
+Snitch,6,1
+Heavenly Creatures,17,2
+Monsoon Wedding,14,2
+The Sweet Hereafter,17,3
+Cube,4,1
+Breaking the Waves,16,3
+The Man with Two Brains,19,5
+Birdman or (The Unexpected Virtue of Ignorance),41,7
+Beverly Hills Cop,15,3
+The Ring,7,2
+Kids,4,1
+Hearts of Darkness: A Filmmaker's Apocalypse,39,6
+Roger Dodger,11,2
+Hard Candy,9,2
+Sicko,5,1
+Lenny,5,1
+Persepolis,10,1
+The Others,9,2
+Bill & Ted's Excellent Adventure,28,5
+Zoolander,9,1
+Rescue Dawn,10,2
+Rear Window,10,2
+Being There,10,2
+Fear and Loathing in Las Vegas,25,6
+John Wick,8,2
+Rope,4,1
+Enter the Dragon,14,3
+Wayne's World,12,2
+This Is Spinal Tap,15,4
+Old School,9,2
+Top Five,7,2
+All About Eve,11,3
+Scum,4,1
+Blackfish,9,1
+The Martian,10,2
+The Cove,7,2
+Dope,4,1
+Steve Jobs,9,2
+First Blood,10,2
+A Nightmare on Elm Street,21,5
+You Only Live Twice,16,4
+Bronson,7,1
+Project Nim,10,2
+Three Days of the Condor,20,5
+Cape Fear,8,2
+Glory,5,1
+Pink Flamingos,13,2
+Eraserhead,10,1
+Tucker and Dale vs Evil,19,5
+The Man Who Wasn't There,20,5
+Django,6,1
+Singin' in the Rain,16,4
+Auto Focus,9,2
+The Iron Giant,12,3
+Mononoke-hime,13,1
+Mission: Impossible - Rogue Nation,30,5
+Double Indemnity,15,2
+Aladdin,7,1
+It Follows,9,2
+Furious Seven,12,2
+King Kong,8,2
+Spring,6,1
+Sicario,7,1
+Awakenings,10,1
+Young Adult,10,2
+Blowup,6,1
+The Long Goodbye,14,3
+Spartacus,9,1
+Ronin,5,1
+Mad Max,6,2
+Touch of Evil,11,3
+Nymphomaniac: Vol. I,18,3
+Ong-bak,7,1
+Manhattan Melodrama,18,2
+Boyhood,7,1
+Terms of Endearment,17,3
+The Master,9,2
+How to Train Your Dragon 2,21,6
+What We Do in the Shadows,20,6
+Roger & Me,8,3
+Role Models,10,2
+Wayne's World 2,13,3
+The Warriors,11,2
+The Castle,9,2
+Home Alone 2: Lost in New York,24,7
+Final Destination 2,17,3
+Mean Streets,11,2
+The Full Monty,12,3
+Fast Times at Ridgemont High,24,5
+Black Dynamite,13,2
+Everything Is Illuminated,23,3
+No Way Out,8,3
+The Darjeeling Limited,20,3
+Star Trek Into Darkness,20,4
+State of Grace,12,3
+The Hunger Games: Catching Fire,27,5
+Miracle on 34th Street,19,4
+Big Fish,7,2
+Analyze This,11,2
+Ben-Hur,7,1
+Top Secret!,10,2
+Fast Five,8,2
+An Officer and a Gentleman,22,5
+Mystic River,11,2
+Shut Up and Play the Hits,20,6
+Bobby Fischer Against the World,27,5
+Rocky II,7,2
+Time Bandits,11,2
+Jungle Fever,11,2
+Down Terrace,11,2
+"Play It Again, Sam",15,4
+Bill & Ted's Bogus Journey,22,5
+Napoleon Dynamite,16,2
+We Need to Talk About Kevin,22,6
+August: Osage County,18,3
+The Wedding Singer,16,3
+The Naked Gun 2½: The Smell of Fear,28,8
+Midnight in Paris,15,3
+Philadelphia,12,1
+Beowulf,7,1
+Deep Cover,9,2
+Runaway Jury,11,2
+Save the Tiger,12,3
+Mississippi Burning,18,2
+Goon,4,1
+Final Destination,16,2
+Fletch,6,1
+The Lion King,11,3
+Sleeper,7,1
+Shichinin no samurai,18,3
+Amy,3,1
+"Crazy, Stupid, Love.",18,3
+The Lobster,10,2
+Commando,8,1
+Ted,3,1
+The 40 Year Old Virgin,18,5
+Mary Poppins,11,2
+The Sound of Music,15,4
+Arrival,7,1
+Manchester by the Sea,18,4
+Blade Runner 2049,15,3
+Baby Driver,10,2
+Thor: Ragnarok,13,2
+Detroit,7,1
+Guardians of the Galaxy Vol. 2,25,6
+The Ballad of Buster Scruggs,24,5
+The Post,7,2
+Hellboy II: The Golden Army,23,5
+Dear Zachary: A Letter to a Son About His Father,39,10
+The Edge of Seventeen,18,4
+13th,4,1
+Molly's Game,11,2
+Free Fire,8,2
+Deadpool 2,9,2
+A Star Is Born,11,4
+Blade II,7,2
+Falling Down,11,2
+Eyes Wide Shut,12,3
+The Lost Boys,11,3
