@@ -3,7 +3,7 @@ import requests
 import re
 
 # Download IMDB's Top 250 data
-url = 'https://www.imdb.com/chart/top'
+url = 'http://www.imdb.com/chart/top'
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'lxml')
 
@@ -24,8 +24,14 @@ for index in range(0, len(movies)):
     year = re.search('\((.*?)\)', movie_string).group(1)
     place = movie[:len(str(index))-(len(movie))]
     data = {"movie_title": movie_title,
-            "place":place}
+            "year": year,
+            "place": place,
+            "star_cast": crew[index],
+            "rating": ratings[index],
+            "vote": votes[index],
+            "link": links[index]}
     imdb.append(data)
 
+
 for item in imdb:
-    print(item['movie_title'])
+    print(item['place'], '-', item['movie_title'], '('+item['year']+') -', 'Starring:', item['star_cast'])
